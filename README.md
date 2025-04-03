@@ -20,5 +20,4 @@ I’m passionate about **solving complex problems** at the intersection of **fin
 [![GitHub](https://img.shields.io/badge/GitHub-amritshakya-lightgrey?style=flat&logo=github)](https://github.com/amritshakya)  
 ---
 
-📖 "We can't solve problems by using the same kind of thinking we used when we created them." – Albert Einstein (A nod to Gödel’s incompleteness theorem, which shows the limits of our logical frameworks) "We can't solve problems by using the same kind of thinking we used when we created them." – Albert Einstein (Godel's theorem as well if you think about it)
----
+📖 "We can't solve problems by using the same kind of thinking we used when we created them." – Albert Einstein (A nod to Gödel’s incompleteness theorem, which shows the limits of our logical frameworks) 
