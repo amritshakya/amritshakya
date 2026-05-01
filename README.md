@@ -1,23 +1,23 @@
- Hi, I'm Amrit Shakya! 👋  
+# Hi, I'm Amrit Shakya
 
-🎯 **Data Enthusiast | Quantitative Thinker | Market Analyst**  
+I'm a senior at Colby College studying Mathematical Sciences and Economics, with interests in investment research, portfolio analytics, and data-driven financial decision-making.
 
-I’m passionate about **solving complex problems** at the intersection of **finance, data science, and technology**. From **market trends** to **algorithmic models**, I love diving into the numbers and understanding how they drive our world.  
+I use Python, R, Excel, and statistical modeling to analyze markets, evaluate risk, and turn financial data into clear analytical outputs.
 
-## 🚀 About Me 
-- 📊 **Passionate about Investment & Market Analysis** – Always on the lookout for the next great trend.  
-- 🔢 **Mathematics & Game Theory** – Finding structure in complexity and applying it to real-world problems.  
-- ♟️ **Chess & Poker Enthusiast** – I love strategy, probability, and decision-making under uncertainty.  
-- 🎥 **Film Buff & Philosophy Geek** – Exploring the intersection of logic, ethics, and human behavior.  
+## Selected Work
 
-# 🛠️ Skills  
-**Programming Languages:** Python | C++ | R | Java | Git  
-**Data & Analysis Tools:** Excel | Machine Learning | Statistics | Time Series Analysis  
-**Finance & Markets Expertise:** Portfolio Analysis | Risk Management | Algorithmic Trading | Quantitative Finance  
+- **Market Analysis** – Ongoing macro/market research notes, financial concepts, and signal tracking.
+- **Portfolio Risk / Quantitative Finance Project** – Research-style project applying statistical and financial methods to portfolio or market data.
+- **Investment / Financial Modeling Project** – Valuation, scenario analysis, or business-case modeling project based on internship or coursework experience.
 
-## 📬 Connect With Me  
+## Areas of Interest
+
+Investment research · Portfolio analytics · Asset allocation · Risk management · Financial markets · Data analysis
+
+## Tools
+
+Python · R · Excel · Java · Git · Statistics · Time Series Analysis · Financial Modeling
+
+## Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amritshakya)  
-[![GitHub](https://img.shields.io/badge/GitHub-amritshakya-lightgrey?style=flat&logo=github)](https://github.com/amritshakya)  
----
-
-📖 "We can't solve problems by using the same kind of thinking we used when we created them." – Albert Einstein (A nod to Gödel’s incompleteness theorem, which shows the limits of our logical frameworks) 
+[Email](mailto:amritshakya0503@gmail.com)
