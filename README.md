@@ -7,7 +7,7 @@ I use Python, R, Excel, and statistical modeling to analyze markets, evaluate ri
 ## Selected Work
 
 - **Market Analysis** – Ongoing macro/market research notes, financial concepts, and signal tracking.
-- **Portfolio Risk / Quantitative Finance Project** – Research-style project applying statistical and financial methods to portfolio or market data.
+- **Multi-Asset Portfolio Strategy** – Constrained mean-variance optimization project, designing and backtesting a portfolio across equities, gold, energy, emerging markets, and Bitcoin.
 - **Investment / Financial Modeling Project** – Valuation, scenario analysis, or business-case modeling project based on internship or coursework experience.
 
 ## Areas of Interest
