@@ -2,7 +2,6 @@
 
 I'm a senior at Colby College studying Mathematical Sciences and Economics, with interests in investment research, portfolio analytics, and data-driven decision-making.
 
-I use Python, R, Excel, and statistical modeling to analyze markets, evaluate risk, and turn financial data into clear analytical outputs.
 
 ## Selected Work
 
