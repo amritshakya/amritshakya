@@ -29,9 +29,10 @@ Investment research · Portfolio analytics · Risk and performance analysis · F
 
 ## Technical Skills
 
-**Programming and Data:** Python, R, SQL, Git
-**Analysis and Modeling:** Financial modeling, regression, time-series analysis, scenario analysis, portfolio optimization, data visualization
-**Business Tools:** Excel, Bloomberg, PowerPoint
+* **Programming and Data:** Python, R, SQL, Git
+* **Analysis and Modeling:** Financial modeling, regression, time-series analysis, scenario analysis, portfolio optimization, data visualization
+* **Business Tools:** Excel, Bloomberg, PowerPoint
+
 
 ## Connect
 
